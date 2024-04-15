@@ -1,3 +1,5 @@
+;aiu;
+
 [Update]
 Name = PharmaSync
 ProductVersion = 1.0.24
