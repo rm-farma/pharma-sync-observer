@@ -2,12 +2,12 @@
 
 [Update]
 Name = PharmaSync
-ProductVersion = 1.0.37
-URL = https://github.com/rm-farma/pharma-sync-observer/releases/download/1.0.37/PharmaSync-1.0.37.msi
-Size = 98399744
-MD5 = 37A79D7011728F3F8FA2EDD6E3C7AAC2
+ProductVersion = 1.0.38
+URL = https://github.com/rm-farma/pharma-sync-observer/releases/download/1.0.38/PharmaSync-1.0.38.msi
+Size = 97839104
+MD5 = BCD9720479F53D54C925CE2F1F234144
 CommandLine = /exenoui /qn
-ServerFileName = PharmaSync-1.0.37.msi
+ServerFileName = PharmaSync-1.0.38.msi
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKCU\Software\PharmaSync\Version
-Version = 1.0.37
+Version = 1.0.38
